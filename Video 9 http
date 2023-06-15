@@ -1,3 +1,5 @@
 This is the path how data is transferred from backend to frontend .
 
 BACKEND -> httpclient -> userservice.ts  -> signup.ts
+
+Also used the "FormsModule" to submit form in frontend.
